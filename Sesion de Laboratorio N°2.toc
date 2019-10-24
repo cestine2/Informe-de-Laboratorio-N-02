@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Ejercicio 1: Crear relaciones}{1}% 
+\contentsline {subsection}{\numberline {1.1}Tarea 1: Relaciones autom\IeC {\'a}ticas}{1}% 
+\contentsline {subsection}{\numberline {1.2}Tarea 2: Relaciones manuales}{4}% 
+\contentsline {section}{\numberline {2}Ejercicio 2: C\IeC {\'a}lculos}{6}% 
+\contentsline {subsection}{\numberline {2.1}Tarea 1: Agregar una columna calculada}{6}% 
